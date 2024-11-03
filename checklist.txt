@@ -1,0 +1,60 @@
+# CSC 210 Data Structures
+## Homework 6 Checklist
+
+Listed below are various aspects of the assignment.  When you turn 
+in your work, please indicate the status of each item
+
+- YES: indicates that the item is fully complete
+- NO: indicates that the item is not attempted
+- PART: indicates that the item is attempted but not fully complete
+
+
+Assignment Points:
+
+___YES__ 1 pt: Loads and stores dictionary
+
+___YES__ 1 pt: Implements containsWord method as specified
+
+__YES___ 5 pts: Implements nearMisses method as specified, composed of:
+
+      ___YES__ 1 pt: Suggests correct deletions
+
+      ___YES__ 1 pt: Suggests correct insertions
+
+      ___YES__ 1 pt: Suggests correct substitutions
+
+      ___YES__ 1 pt: Suggests correct transpositions
+
+      ___YES__ 1 pt: Suggests correct split words::: **Note in readme.md**
+
+__YES___ 1 pt: Main includes multiple tests for each point listed above
+
+__YES___ 1 pt: SpellChecker runs in command line mode as described
+
+___YES__ 1 pt: SpellChecker runs in file checking mode as described
+
+(Note that in addition to the tests that you write, we will perform automated testing of our own on your submitted code.)
+
+
+
+## General Items:
+
+___YES__ 4 pts: Programs compile without errors or warnings
+
+___YES__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+
+___YES__ 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      ___YES__ Classes & class members all have Javadoc header comments
+
+      ___YES__ Clear and consistent indentation of bracketed sections
+
+      ___YES__ Adheres to Java conventions on naming & capitalization
+
+      ___YES__ Methods & variables all have clear and accurate names
+
+      ___YES__ Methods avoid confusing side effects
+
+___Y__ 1 pt: All required files included with submission (including completed checklist file)
+
+_____ 1 pt: readme.md contains your reflection on the assignment
